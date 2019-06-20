@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/CCT/static/css/main.f22c07b0.chunk.css",
-    "main.js": "/CCT/static/js/main.385d00db.chunk.js",
-    "main.js.map": "/CCT/static/js/main.385d00db.chunk.js.map",
+    "main.css": "/CCT/static/css/main.29155ce8.chunk.css",
+    "main.js": "/CCT/static/js/main.b1fc7f97.chunk.js",
+    "main.js.map": "/CCT/static/js/main.b1fc7f97.chunk.js.map",
     "runtime~main.js": "/CCT/static/js/runtime~main.38d6c8bc.js",
     "runtime~main.js.map": "/CCT/static/js/runtime~main.38d6c8bc.js.map",
-    "static/js/2.4f6210fc.chunk.js": "/CCT/static/js/2.4f6210fc.chunk.js",
-    "static/js/2.4f6210fc.chunk.js.map": "/CCT/static/js/2.4f6210fc.chunk.js.map",
+    "static/js/2.f90aaafc.chunk.js": "/CCT/static/js/2.f90aaafc.chunk.js",
+    "static/js/2.f90aaafc.chunk.js.map": "/CCT/static/js/2.f90aaafc.chunk.js.map",
     "index.html": "/CCT/index.html",
-    "precache-manifest.d0864c6bf133664ee8a4df6cfd2a50b6.js": "/CCT/precache-manifest.d0864c6bf133664ee8a4df6cfd2a50b6.js",
+    "precache-manifest.2b853d3f67cd43cc6dc4893b05491a2a.js": "/CCT/precache-manifest.2b853d3f67cd43cc6dc4893b05491a2a.js",
     "service-worker.js": "/CCT/service-worker.js",
-    "static/css/main.f22c07b0.chunk.css.map": "/CCT/static/css/main.f22c07b0.chunk.css.map",
-    "static/media/styles.css": "/CCT/static/media/8786.3670aa49.ttf",
+    "static/css/main.29155ce8.chunk.css.map": "/CCT/static/css/main.29155ce8.chunk.css.map",
+    "static/media/styles.css": "/CCT/static/media/Caviar_Dreams_Bold.c32e6db7.ttf",
     "static/media/navs.module.css": "/CCT/static/media/team.c0ea6854.png",
+    "static/media/CompanyOffice.png": "/CCT/static/media/CompanyOffice.ddf81c4a.png",
+    "static/media/fifth-screen.module.css": "/CCT/static/media/fifthScreen.8779a080.png",
+    "static/media/fourth-screen.module.css": "/CCT/static/media/fourthScreenSomethingMob.f134d0d2.png",
     "static/media/logo.png": "/CCT/static/media/logo.613c9b57.png",
+    "static/media/messages.png": "/CCT/static/media/messages.674374f3.png",
+    "static/media/office.png": "/CCT/static/media/office.533b9dea.png",
     "static/media/portal.png": "/CCT/static/media/portal.fa0a85ff.png",
+    "static/media/registrator.png": "/CCT/static/media/registrator.00064439.png",
     "static/media/second-screen.module.css": "/CCT/static/media/secondScreenSomething.e80d93f4.png",
-    "static/media/third-screen.module.css": "/CCT/static/media/thirdScreen.4044597b.png"
+    "static/media/sixth-screen.module.css": "/CCT/static/media/sixthScreen.a30ec02d.png",
+    "static/media/third-screen.module.css": "/CCT/static/media/thirdScreen.df83c14a.png"
   }
 }
