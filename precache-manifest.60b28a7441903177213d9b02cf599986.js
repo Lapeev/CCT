@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0e47635946399628eda18ba667638fa",
+    "revision": "65cb5c49490a78d13698d70336dd03eb",
     "url": "/CCT/index.html"
   },
   {
-    "revision": "6f7586cff7ae4952c0af",
-    "url": "/CCT/static/css/main.7ef54de2.chunk.css"
+    "revision": "f8a438fe6d50a131e656",
+    "url": "/CCT/static/css/main.c293794a.chunk.css"
   },
   {
-    "revision": "0a8904bfd955c0168fd2",
-    "url": "/CCT/static/js/2.f90aaafc.chunk.js"
+    "revision": "6a55f307c930a9dc61a3",
+    "url": "/CCT/static/js/2.6d3b3ab1.chunk.js"
   },
   {
-    "revision": "6f7586cff7ae4952c0af",
-    "url": "/CCT/static/js/main.a2087bfd.chunk.js"
+    "revision": "f8a438fe6d50a131e656",
+    "url": "/CCT/static/js/main.aecebe46.chunk.js"
   },
   {
     "revision": "91e4362e089cf3adfc1d",
@@ -40,6 +40,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCT/static/media/actions.56a96591.png"
   },
   {
+    "revision": "795b33e785ee5fce8ebafc372a1b69a6",
+    "url": "/CCT/static/media/callCenter.795b33e7.png"
+  },
+  {
+    "revision": "958a69dc5f2bfeaf7e3e1edb10ea1c30",
+    "url": "/CCT/static/media/eighthScreen.958a69dc.png"
+  },
+  {
+    "revision": "6142a32d699b5d4c958196cb1f88d5a1",
+    "url": "/CCT/static/media/eighthScreenSomethingDesk.6142a32d.png"
+  },
+  {
     "revision": "8779a080a6803a95b675debb9af0dadc",
     "url": "/CCT/static/media/fifthScreen.8779a080.png"
   },
@@ -50,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f134d0d2b2b15af084d29857b10acdb8",
     "url": "/CCT/static/media/fourthScreenSomethingMob.f134d0d2.png"
+  },
+  {
+    "revision": "ee42e1750a84c44ad1ada0af04660d56",
+    "url": "/CCT/static/media/head.ee42e175.png"
   },
   {
     "revision": "613c9b573fb04ecd503092c9ae20a02d",
@@ -82,6 +98,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1e3782b637f4a48e928895ca666e3d08",
     "url": "/CCT/static/media/services.1e3782b6.png"
+  },
+  {
+    "revision": "b11f6ddb129b40cb8042d1f819a9273c",
+    "url": "/CCT/static/media/seventhScreen.b11f6ddb.png"
+  },
+  {
+    "revision": "fd2c0a69209931c6872caaf6426afe2e",
+    "url": "/CCT/static/media/seventhScreenSomethingDesk.fd2c0a69.png"
+  },
+  {
+    "revision": "7405ac6acbc006ddbc72a391f2191e3e",
+    "url": "/CCT/static/media/seventhScreenSomethingDesk2.7405ac6a.png"
   },
   {
     "revision": "a30ec02de9f01fa62ee0d353ede6eba9",
