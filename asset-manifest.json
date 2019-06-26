@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CCT/static/css/main.764630fb.chunk.css",
+    "main.css": "/CCT/static/css/main.82a49529.chunk.css",
     "main.js": "/CCT/static/js/main.f6791691.chunk.js",
     "main.js.map": "/CCT/static/js/main.f6791691.chunk.js.map",
     "runtime~main.js": "/CCT/static/js/runtime~main.38d6c8bc.js",
@@ -8,9 +8,9 @@
     "static/js/2.0847c8f5.chunk.js": "/CCT/static/js/2.0847c8f5.chunk.js",
     "static/js/2.0847c8f5.chunk.js.map": "/CCT/static/js/2.0847c8f5.chunk.js.map",
     "index.html": "/CCT/index.html",
-    "precache-manifest.23c75ba1623476e1eb0baa1e41126846.js": "/CCT/precache-manifest.23c75ba1623476e1eb0baa1e41126846.js",
+    "precache-manifest.efb2a667afb37c402deac2965f5f3f3b.js": "/CCT/precache-manifest.efb2a667afb37c402deac2965f5f3f3b.js",
     "service-worker.js": "/CCT/service-worker.js",
-    "static/css/main.764630fb.chunk.css.map": "/CCT/static/css/main.764630fb.chunk.css.map",
+    "static/css/main.82a49529.chunk.css.map": "/CCT/static/css/main.82a49529.chunk.css.map",
     "static/media/styles.css": "/CCT/static/media/Caviar_Dreams_Bold.c32e6db7.ttf",
     "static/media/navs.module.css": "/CCT/static/media/team.c0ea6854.png",
     "static/media/CompanyOffice.png": "/CCT/static/media/CompanyOffice.ddf81c4a.png",
