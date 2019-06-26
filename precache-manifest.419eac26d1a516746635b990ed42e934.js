@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ca58121dec4f7f8ec63e4ccfd8b57f1",
+    "revision": "e1e15b3956cc4cfa33f40e10b0020f27",
     "url": "/CCT/index.html"
   },
   {
-    "revision": "6404ea5bc6efccaf1202",
-    "url": "/CCT/static/css/main.ecc379ae.chunk.css"
+    "revision": "99ee38d72e44d640533d",
+    "url": "/CCT/static/css/main.b76a86ff.chunk.css"
   },
   {
-    "revision": "366ca4b4694b4730afc0",
-    "url": "/CCT/static/js/2.0847c8f5.chunk.js"
+    "revision": "66a6dede05e5b46aad44",
+    "url": "/CCT/static/js/2.280b0cad.chunk.js"
   },
   {
-    "revision": "6404ea5bc6efccaf1202",
-    "url": "/CCT/static/js/main.f6791691.chunk.js"
+    "revision": "99ee38d72e44d640533d",
+    "url": "/CCT/static/js/main.2edadef4.chunk.js"
   },
   {
     "revision": "91e4362e089cf3adfc1d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "795b33e785ee5fce8ebafc372a1b69a6",
     "url": "/CCT/static/media/callCenter.795b33e7.png"
+  },
+  {
+    "revision": "fcd9231022793707fa176733f6f68418",
+    "url": "/CCT/static/media/dneprBack.fcd92310.png"
   },
   {
     "revision": "958a69dc5f2bfeaf7e3e1edb10ea1c30",
@@ -88,16 +92,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCT/static/media/head.ee42e175.png"
   },
   {
+    "revision": "fb8316a8f0d6b3ffe5dc1adb32955c4b",
+    "url": "/CCT/static/media/kremenBack.fb8316a8.png"
+  },
+  {
+    "revision": "f3585619d6e597b77f1ae607b1911e1a",
+    "url": "/CCT/static/media/kremenLogo.f3585619.png"
+  },
+  {
     "revision": "613c9b573fb04ecd503092c9ae20a02d",
     "url": "/CCT/static/media/logo.613c9b57.png"
+  },
+  {
+    "revision": "86ee7d06fa670bbd6fe9d91623c38e92",
+    "url": "/CCT/static/media/lozovaBack.86ee7d06.png"
+  },
+  {
+    "revision": "d1e558aa4ee1459f64c21049b7555e40",
+    "url": "/CCT/static/media/lozovaLogo.d1e558aa.png"
   },
   {
     "revision": "674374f394ee4c7518250dc8739b963a",
     "url": "/CCT/static/media/messages.674374f3.png"
   },
   {
+    "revision": "6e1af6680c216e75299f2609392e1f90",
+    "url": "/CCT/static/media/nikBack.6e1af668.png"
+  },
+  {
+    "revision": "81aed166f43d0d662190d5b3a12a0397",
+    "url": "/CCT/static/media/nikLogo.81aed166.png"
+  },
+  {
+    "revision": "ce8008911bf1fb416f8d12511719cb9a",
+    "url": "/CCT/static/media/odessaBack.ce800891.png"
+  },
+  {
     "revision": "533b9dea23e906a3ffa6cb583da102f7",
     "url": "/CCT/static/media/office.533b9dea.png"
+  },
+  {
+    "revision": "248a34df7b5d156b1aefd7bf48f9548c",
+    "url": "/CCT/static/media/poltavaBack.248a34df.png"
+  },
+  {
+    "revision": "bb4f7ba49ce22613c52dbc90c48d4f7e",
+    "url": "/CCT/static/media/poltavaLogo.bb4f7ba4.png"
   },
   {
     "revision": "fa0a85ff8c44083c1e9ca7b9838b3a6e",
@@ -158,5 +198,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df83c14adc8278f1504baa9ad26022b8",
     "url": "/CCT/static/media/thirdScreen.df83c14a.png"
+  },
+  {
+    "revision": "ce9b963e7452521e435d85f62aadc368",
+    "url": "/CCT/static/media/zaporBack.ce9b963e.png"
+  },
+  {
+    "revision": "fccbd32ec7a1163a375f4971c292f1ec",
+    "url": "/CCT/static/media/zaporLogo.fccbd32e.png"
   }
 ]);
