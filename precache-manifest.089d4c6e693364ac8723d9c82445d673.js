@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c33db2a14dce76401b9969e62bee3f5a",
+    "revision": "ad11ff1e1a109c959805e64bda2cf5e4",
     "url": "/CCT/index.html"
   },
   {
-    "revision": "44f307a07f205317590b",
-    "url": "/CCT/static/css/main.c872cf0a.chunk.css"
+    "revision": "7d34592cd3b48e5016bb",
+    "url": "/CCT/static/css/main.f5c5c3c1.chunk.css"
   },
   {
-    "revision": "0be75fee840eb0101320",
-    "url": "/CCT/static/js/2.1e8bc56c.chunk.js"
+    "revision": "060ad172b9791e27a73b",
+    "url": "/CCT/static/js/2.2fb07496.chunk.js"
   },
   {
-    "revision": "44f307a07f205317590b",
-    "url": "/CCT/static/js/main.888883e5.chunk.js"
+    "revision": "7d34592cd3b48e5016bb",
+    "url": "/CCT/static/js/main.48d1410d.chunk.js"
   },
   {
     "revision": "91e4362e089cf3adfc1d",
@@ -40,8 +40,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCT/static/media/actions.56a96591.png"
   },
   {
+    "revision": "e238252e1ce77ebc9dd59d0f585caa4b",
+    "url": "/CCT/static/media/andreyDesk.e238252e.png"
+  },
+  {
+    "revision": "ae8f96f776bd5d3ed22dff9dcdf31685",
+    "url": "/CCT/static/media/andreyMob.ae8f96f7.png"
+  },
+  {
     "revision": "795b33e785ee5fce8ebafc372a1b69a6",
     "url": "/CCT/static/media/callCenter.795b33e7.png"
+  },
+  {
+    "revision": "0c1032c0f8d914c9770ab64a436fffc8",
+    "url": "/CCT/static/media/dimaDesk.0c1032c0.png"
+  },
+  {
+    "revision": "2ae067bfb784af37c3d9379b5e66d026",
+    "url": "/CCT/static/media/dimaMob.2ae067bf.png"
   },
   {
     "revision": "fcd9231022793707fa176733f6f68418",
@@ -92,12 +108,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCT/static/media/head.ee42e175.png"
   },
   {
+    "revision": "aeb474825199c6339d778d08d9ca975f",
+    "url": "/CCT/static/media/katyaDesk.aeb47482.png"
+  },
+  {
+    "revision": "94ba8134a32c7ca3bf059c58b573a89e",
+    "url": "/CCT/static/media/katyaMob.94ba8134.png"
+  },
+  {
     "revision": "fb8316a8f0d6b3ffe5dc1adb32955c4b",
     "url": "/CCT/static/media/kremenBack.fb8316a8.png"
   },
   {
     "revision": "f3585619d6e597b77f1ae607b1911e1a",
     "url": "/CCT/static/media/kremenLogo.f3585619.png"
+  },
+  {
+    "revision": "685914e7105a1429b4b410adf3f586cd",
+    "url": "/CCT/static/media/lenaDesk.685914e7.png"
+  },
+  {
+    "revision": "21a49f2e2218a78f46ae70f33bab9a91",
+    "url": "/CCT/static/media/lenaMob.21a49f2e.png"
   },
   {
     "revision": "613c9b573fb04ecd503092c9ae20a02d",
@@ -160,6 +192,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CCT/static/media/secondScreenSomething.e80d93f4.png"
   },
   {
+    "revision": "70d090d046b764511cdfab1311c25a99",
+    "url": "/CCT/static/media/sergeyDesk.70d090d0.png"
+  },
+  {
+    "revision": "e986863463c38f0e137075a23115fe4b",
+    "url": "/CCT/static/media/sergeyMob.e9868634.png"
+  },
+  {
     "revision": "1e3782b637f4a48e928895ca666e3d08",
     "url": "/CCT/static/media/services.1e3782b6.png"
   },
@@ -198,6 +238,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df83c14adc8278f1504baa9ad26022b8",
     "url": "/CCT/static/media/thirdScreen.df83c14a.png"
+  },
+  {
+    "revision": "f6f03fb5b81b66705247bc37fe8aaf1c",
+    "url": "/CCT/static/media/tomaDesk.f6f03fb5.png"
+  },
+  {
+    "revision": "f120b99990a61398964c80ebf5457f7f",
+    "url": "/CCT/static/media/tomaMob.f120b999.png"
+  },
+  {
+    "revision": "b169471835541cf5e97c40f26ab9cf8b",
+    "url": "/CCT/static/media/vovaDesk.b1694718.png"
+  },
+  {
+    "revision": "2b82b71e954c39845e812e2ad49fe316",
+    "url": "/CCT/static/media/vovaMob.2b82b71e.png"
   },
   {
     "revision": "ce9b963e7452521e435d85f62aadc368",
